@@ -20,7 +20,7 @@ export class MenuService {
     },
     {
       name: 'Habilidades',
-      url: 'skills'
+      url: '#skills'
     },
     {
       name: 'Projetos',
